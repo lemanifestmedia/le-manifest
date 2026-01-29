@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "@id": "https://www.lemanifest.com/#organization",
+  "name": "Le Manifest",
+  "alternateName": "Le Manifest media",
+  "url": "https://www.lemanifest.com/",
+  "logo": "https://primary.jwwb.nl/public/o/l/o/temp-ibtrsekethdwduzkuoxo/1000016238-high-08jn01.png?enable-io=true&enable=upscale&height=140&quality=70",
+  "issn": "3099-0149",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISSN",
+      "value": "3099-0149",
+      "url": "https://portal.issn.org/resource/ISSN/3099-0149"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISNI",
+      "value": "000000052955336X",
+      "url": "https://isni.org/isni/000000052955336X"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "BnF ARK",
+      "value": "ark:/12148/cb48660576g",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb48660576g"
+    }
+  ],
+  "sameAs": [
+    "https://news.google.com/publications/CAAqKggKIiRDQklTRlFnTWFoRUtEM0poWkdsdmMybHphMjltYlM1bWNpZ0FQAQ?hl=fr&gl=FR&ceid=FR:fr",
+    "https://x.com/lemanifestmedia",
+    "https://www.threads.com/@lemanifestmedia",
+    "https://instagram.com/lemanifestmedia",
+    "https://facebook.com/lemanifestmedia",
+    "https://tiktok.com/@lemanifestmedia",
+    "https://www.youtube.com/@lemanifestmedia",
+    "https://linkedin.com/company/lemanifestmedia/",
+    "https://t.me/lemanifestmedia",
+    "https://www.whatsapp.com/channel/0029VbAnBjyDp2QBy3xrQi40",
+    "https://invite.viber.com/?g2=AQANbzAMAGL5VE%2F0Vld%2B83wu9ThuI7%2FpUAEIi1nGipBPr2K3v7StVQC4CbClZsYo",
+    "https://lemanifestmedia.tumblr.com/",
+    "https://flipboard.com/@lemanifestmedia",
+    "https://pinterest.com/lemanifestmedia",
+    "https://open.spotify.com/show/2Rr6y14mYmCVVV2P6RCE6f",
+    "https://letterboxd.com/lemanifestmedia/",
+    "https://m.imdb.com/fr/search/title/?companies=co1160930",
+    "https://www.crunchbase.com/organization/le-manifest",
+    "https://muckrack.com/media-outlet/lemanifestmedia",
+    "https://linktr.ee/lemanifestmedia",
+    "https://solo.to/lemanifestmedia",
+    "https://fr.vikidia.org/wiki/Le_Manifest"
+  ]
+}
