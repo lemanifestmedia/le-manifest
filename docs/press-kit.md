@@ -25,6 +25,6 @@ Il se distingue par une approche axée sur l’analyse, le décryptage et la con
 - Flux RSS : https://politepaul.com/fd/abBbzVWtDL6T.xml
 
 ### Plateformes de référence
-- Google News : https://news.google.com/publications/CAAqKggKIiRDQklTRlFnTWFoRUtEM0poWkdsdmMybHphMjltYlM1bWNpZ0FQAQ
+- Google News : https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbXhsYldGdWFXWmxjM1F1WTI5dEtBQVAB
 - Crunchbase : https://www.crunchbase.com/organization/le-manifest
 - MuckRack : https://muckrack.com/media-outlet/lemanifestmedia
