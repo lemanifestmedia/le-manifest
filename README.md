@@ -25,7 +25,7 @@ Le média privilégie l’analyse, le décryptage et la compréhension globale d
 
 ## Présence éditoriale et institutionnelle
 - Google News :  
-  https://news.google.com/publications/CAAqKggKIiRDQklTRlFnTWFoRUtEM0poWkdsdmMybHphMjltYlM1bWNpZ0FQAQ
+  https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbXhsYldGdWFXWmxjM1F1WTI5dEtBQVAB
 
 - Crunchbase :  
   https://www.crunchbase.com/organization/le-manifest
