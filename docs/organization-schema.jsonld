@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "@id": "https://www.lemanifest.com/#organization",
+  "name": "Le Manifest",
+  "alternateName": "Le Manifest Media",
+  "url": "https://www.lemanifest.com/",
+  "sameAs": [
+    "https://www.google.com/search?kgmid=/g/11yy_s3qxz",
+    "https://x.com/lemanifestmedia",
+    "https://www.instagram.com/lemanifestmedia/",
+    "https://www.youtube.com/@lemanifestmedia",
+    "https://www.linkedin.com/company/lemanifest/"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISSN",
+      "value": "3099-0149"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISNI",
+      "value": "000000052955336X"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "BnF ARK",
+      "value": "ark:/12148/cb48660576g"
+    }
+  ],
+  "publishingPrinciples": "https://www.lemanifest.com/charte-editoriale",
+  "correctionsPolicy": "https://www.lemanifest.com/politique-de-correction"
+}
