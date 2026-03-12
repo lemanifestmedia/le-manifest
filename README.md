@@ -27,6 +27,9 @@ Le média privilégie l’analyse, le décryptage et la compréhension globale d
 - Google News :  
   https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbXhsYldGdWFXWmxjM1F1WTI5dEtBQVAB
 
+- Google Knowledge Graph :  
+  https://www.google.com/search?kgmid=/g/11yy_s3qxz
+
 - Crunchbase :  
   https://www.crunchbase.com/organization/le-manifest
 
