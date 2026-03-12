@@ -6,7 +6,7 @@ est présent à des fins éditoriales, institutionnelles ou de diffusion.
 ## Références institutionnelles
 - Site officiel : https://www.lemanifest.com
 - Google News :  
-  https://news.google.com/publications/CAAqKggKIiRDQklTRlFnTWFoRUtEM0poWkdsdmMybHphMjltYlM1bWNpZ0FQAQ
+  https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbXhsYldGdWFXWmxjM1F1WTI5dEtBQVAB
 - Crunchbase :  
   https://www.crunchbase.com/organization/le-manifest
 - MuckRack :  
@@ -40,7 +40,7 @@ est présent à des fins éditoriales, institutionnelles ou de diffusion.
 - Flipboard : https://flipboard.com/@lemanifestmedia
 
 ## Pages de référence encyclopédiques
-- Vikidia : https://fr.vikidia.org/wiki/Le_Manifest
+- Grokipedia : https://grokipedia.com/page/Le_Manifest
 
 ## Outils de regroupement
 - Linktree : https://linktr.ee/lemanifestmedia
